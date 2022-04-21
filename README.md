@@ -1,7 +1,9 @@
 # Greedy approximation algorithm
 This solution was initially intended to solve problems similar to the **knapsack 0/1** or **subset sum** problem.
 ```
-Example: consider the list of numbers [100, 210, 260, 80, 90] If the target = 500 then the best solution is [100, 210, 80, 90] = 480.
+Example: consider the list of numbers [100, 210, 260, 80, 90] 
+If the target = 500 then the best solution is 
+[100, 210, 80, 90] = 480.
 ```
 
 ## Understanding the algorithm
